@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![snakegif](https://github.com/sparshni/sparshni/blob/main/output/github-contribution-grid-snake.gif)
 <!--
 **sparshni/sparshni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
